@@ -1,8 +1,8 @@
-# Project 3 - *Name of App Here*
+# Project 3 - TwitterClientDemo
 
-**Name of your app** is a basic twitter app to read your tweets.
+TwitterClientDemo is a basic twitter app to read your tweets.
 
-Time spent: **X** hours spent in total
+Time spent: 6 hours spent in total
 
 ## User Stories
 
@@ -23,5 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/MCqwYmy8Mx.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<img src='http://i.imgur.com/vUtZ1YK.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
