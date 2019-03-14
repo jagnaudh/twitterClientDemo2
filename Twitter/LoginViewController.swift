@@ -2,7 +2,7 @@
 //  LoginViewController.swift
 //  Twitter
 //
-//  Created by Joseph Sylvanovich on 3/1/19.
+//  Created by Jagnaudh Bhatia on 3/14/19.
 //  Copyright © 2019 Dan. All rights reserved.
 //
 
@@ -39,7 +39,7 @@ class LoginViewController: UIViewController {
             let title = "Error"
             let message = "An error has occured. Unable to log-in."
             let alert = UIAlertController(title: title, message: message, preferredStyle: .alert)
-            alert.addAction(UIAlertAction(title: "OK", style: UIAlertAction.Style.default, handler: nil))
+            alert.addAction(UIAlertAction(title: "OK", style: UIAlertActionStyle.default, handler: nil))
             self.present(alert, animated: true, completion: nil)
         })
     }
